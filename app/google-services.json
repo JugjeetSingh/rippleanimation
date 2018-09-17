@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521294925283",
+    "firebase_url": "https://project1234-4128a.firebaseio.com",
+    "project_id": "project1234-4128a",
+    "storage_bucket": "project1234-4128a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521294925283:android:c384548850d520b8",
+        "android_client_info": {
+          "package_name": "com.example.jugjeetsingh.rippleanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521294925283-t0mfrb0v3lfh6agta004dt9hq6mmjn25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4lqb27UBKlknFqi8oLOFQ5YakMPePYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
